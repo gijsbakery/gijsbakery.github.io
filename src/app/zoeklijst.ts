@@ -64,7 +64,8 @@ export const zoeklijst: ZoekPagina[] = [
       "eieren",
       "panko",
       "flatbread",
-      "japanse mayonaise"
+      "japanse mayonaise",
+      "meng hoisinsaus en honing met elkaar"
     ]
   },
   {
